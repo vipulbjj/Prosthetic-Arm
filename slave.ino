@@ -20,7 +20,7 @@ Serial.begin(9600);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+// put your main code here, to run repeatedly:
 while(Serial.available()>0){
   pos=Serial.read();
   for(int i=0;i<5;i++)
