@@ -1,6 +1,6 @@
 int a[4];
 int thd_0=490;
-int thd_1=496;//fuckfin
+int thd_1=496;//middlefin
 int thd_2=505;//forefin
 int thd_3=503;//Mthumb
 int thd_4=511;
